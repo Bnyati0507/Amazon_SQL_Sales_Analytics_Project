@@ -128,4 +128,9 @@ It reflects how SQL can be used not just for querying data, but for solving real
 customer retention, revenue optimization, and inventory management.
 
 
+<p align="center">© Created by <strong>Bhavya Nyati</strong> 💡 Please credit this repo if you use it.</p>
+
+
+
+
 
